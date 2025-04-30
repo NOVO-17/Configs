@@ -1,5 +1,17 @@
-# This is a config file for Vim & neovim
+# This is a config file for neovim
 this rn has all the things which you need to get started<br/>
 this has the gruvbox theme :)<br/>
-while the vim files needs some more tweaks, the neovim files are solid<br/>
-I recommend you use neovim.<br/>
+The neovim files are solid<br/>
+
+## list of plugins in nvim
+Bufferline 
+GitSigns
+Gruvbox 
+Lazyvim
+Lualine
+mini-pairs
+nvim-web-devicon
+snacks
+telescope
+Which key
+

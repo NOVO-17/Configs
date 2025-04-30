@@ -26,4 +26,7 @@ require("lazy").setup({
 	checker = { enabled = true },
 })
 vim.g.lazyvim_check_order = false
+vim.opt.clipboard = "unnamedplus"
+vim.wo.relativenumber = true
+vim.wo.number = true
 
